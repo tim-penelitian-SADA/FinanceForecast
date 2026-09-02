@@ -15,7 +15,7 @@ from utils import (
 
 st.set_page_config(
     page_title="FinanceForecast Dashboard",
-    page_icon="🌾",
+    page_icon="💰",
     layout="wide",
 )
 
